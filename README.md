@@ -6,11 +6,10 @@ Sou estudante de Engenharia da Computação pelo IFCE.
 - 🔨 Estou trabalhando em um portfólio...
 
 ---
-<div>
-<a href="https://github.com/gabriel-vieira06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vieira06&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-vieira06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gabriel-vieira06&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=gabriel-vieira06&theme=dark&hide_border=true" width = 400>
+</p>
 
 <!--
 **gabriel-vieira06/gabriel-vieira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
