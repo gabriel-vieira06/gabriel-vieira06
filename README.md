@@ -2,8 +2,8 @@
 
 Sou estudante de Engenharia da Computação pelo IFCE.
 
-- 🤔 Estou aprendendo Java e ReactJS;
-- 🔨 Estou trabalhando em um portfólio...
+- 🤔 Aprendendo Java e ReactJS;
+- 🔨 Trabalhando em um portfólio...
 
 ---
 <p align = "center">
