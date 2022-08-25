@@ -2,9 +2,6 @@
 
 Sou estudante de Engenharia da Computação pelo IFCE.
 
-- 🤔 Aprendendo Java e ReactJS;
-- 🔨 Trabalhando em um portfólio...
-
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabriel-vieira06&show_icons=true&theme=bear" width = 400>
