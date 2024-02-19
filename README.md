@@ -1,6 +1,7 @@
 ## Boas-vindas 👋
 
-Sou estudante de Engenharia da Computação pelo IFCE.
+- 📚 Estudante de Engenharia da Computação pelo Instituto Federal do Ceará.
+- ⚡ Desenvolvedor de Firmware no [NUVEN](https://labnuven.com.br/).
 
 ---
 <p align = "center">
@@ -8,17 +9,3 @@ Sou estudante de Engenharia da Computação pelo IFCE.
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=gabriel-vieira06&theme=dark&hide_border=true" width = 400>
 </p>
 
-<!--
-**gabriel-vieira06/gabriel-vieira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
