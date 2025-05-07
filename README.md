@@ -1,6 +1,7 @@
 ## Boas-vindas 👋
 
-- 📚 Estudante de Engenharia da Computação pelo Instituto Federal do Ceará.
+- 🎓 Graduado em Engenharia da Computação pelo Instituto Federal do Ceará.
+- 📚 Mestrando em Engenharia Elétrica pela Universidade Federal do Ceará.
 - ⚡ Desenvolvedor de Firmware no [NUVEN](https://labnuven.com.br/).
 
 ---
